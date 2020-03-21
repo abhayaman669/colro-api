@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'djoser',
+    'rest_framework',
     'rest_framework.authtoken',
 ]
 
